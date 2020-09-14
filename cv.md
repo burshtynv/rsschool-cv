@@ -1,4 +1,4 @@
-### Ivan Burshtyn.</li>
+### Ivan Burshtyn.
 ##### Age: 23.
 ##### Contact Info: mail: vanyaburshtyn@gmail.com.
 ##### Summary: I am learning programming at beginner levels. I really like this activity and I want to master it.
